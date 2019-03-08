@@ -1,0 +1,11 @@
+[user]
+	email = peeter.vahe@hotmail.com
+	name = Peeter Vahe vahepeeter@gmail.com
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+	up = push
+	dn = pull
+	cum = commit

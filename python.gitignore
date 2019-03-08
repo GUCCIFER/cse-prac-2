@@ -36,6 +36,7 @@ MANIFEST
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
+#They are not needed because they are log files that are of no use to others
 
 # Unit test / coverage reports
 htmlcov/

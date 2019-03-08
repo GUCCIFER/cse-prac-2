@@ -1,6 +1,6 @@
 [user]
 	email = peeter.vahe@hotmail.com
-	name = Peeter Vahe vahepeeter@gmail.com
+	name =
 [alias]
 	co = checkout
 	br = branch
